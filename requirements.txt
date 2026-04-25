@@ -1,0 +1,14 @@
+torch
+transformers
+nltk
+numpy
+scikit-learn
+streamlit
+streamlit-lottie
+Pillow
+requests
+accelerate
+pandas
+fpdf
+datasets
+plotly
